@@ -1,0 +1,40 @@
+[
+    {
+        "uid": 1,
+        "contacts": [
+            {
+                "name": "Carlos Vela",
+                "interactions": [
+                    {"note": "Won the golden boot","date": 1574367490435},
+                    {"note": "Won the MLS cup","date": 1574367490445}
+                ]
+            },
+            {
+                "name": "Peter Pettigrew",
+                "interactions": [
+                    {"note": "Bit Ron","date": 1574367490435},
+                    {"note": "Won the Tri-Wizard cup","date": 1574367490445}
+                ]
+            }
+        ]
+    },
+    {
+        "uid": 2,
+        "contacts": [
+            {
+                "name": "Harry Potter",
+                "interactions": [
+                    {"note": "Won the golden boot","date": 1574367490435},
+                    {"note": "Won the MLS cup","date": 1574367490445}
+                ]
+            },
+            {
+                "name": "Hermione Granger",
+                "interactions": [
+                    {"note": "Bit Ron","date": 1574367490435},
+                    {"note": "Won the Tri-Wizard cup","date": 1574367490445}
+                ]
+            }
+        ]
+    }
+]
